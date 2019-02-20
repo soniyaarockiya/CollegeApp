@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Xie</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="not_registered">Not Registered ?</string>
+    <string name="register">Register</string>
+    <string name="newName">Name</string>
+    <string name="newpassword">newPassword</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="new_register">Register</string>
+    <string name="already_registered">Already Registered ?</string>
+    <string name="existing_user">Existing User?</string>
+    <string name="registerActivitylogin">Login</string>
+    <string name="title">Placement Notification</string>
+    <string name="description">No way its working ,helll yeah !!!11</string>
+    <string name="apply">Apply</string>
+    <string name="first_second_class">First / Second Class</string>
+    <string name="monthly_quartely">Monthly/Quartely</string>
+    <string name="home">home</string>
+    <string name="concession">Concession</string>
+    <string name="info">Info</string>
+    <string name="logout">Logout</string>
+
+
+</resources>

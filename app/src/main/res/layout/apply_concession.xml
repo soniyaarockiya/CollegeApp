@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/topbackground" />
+
+    <EditText
+        android:id="@+id/edittext_TicketType"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="100dp"
+        android:background="@drawable/edittext_custom"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:hint="@string/monthly_quartely"
+        android:paddingLeft="20dp"
+        android:textColorHint="@color/divider"
+        android:textColor="@color/primary_text"
+        />
+
+    <EditText
+        android:id="@+id/edittext_TicketClass"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/edittext_custom"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:hint="@string/first_second_class"
+        android:textColorHint="@color/divider"
+        android:textColor="@color/primary_text"
+        android:paddingLeft="20dp" />
+
+
+    <Button
+        android:id="@+id/button_apply"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/edittext_custom"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:text="@string/apply"
+        android:textColorHint="@color/divider"
+        android:textColor="@color/background"
+        android:backgroundTint="@color/primary" />
+
+</LinearLayout>
